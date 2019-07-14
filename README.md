@@ -1,9 +1,8 @@
 # FIFA_2018_Machine_Learning_Project
 ## __What is Machine Learning ?__
-Machine learning is basically, making the machine learn by using different machine learning algorithms. We mostly use graphical techniques to do the same.
-It is one of the very important step which brings up confidence in the data that can go for Machine learning.
-Below Diagram depicts exactly what the entire flow of Data Science Process and highlights the EDA step.
-![EDA Logo](/images/Machine Learning.png)
+Machine learning is basically, making the machine learn by using different machine learning algorithms. ning.
+Below Diagram depicts basics of the Machine learning step.
+![Machine Learning](/images/Machine Learning.png)
 
 ___________________________________________________________________
 
