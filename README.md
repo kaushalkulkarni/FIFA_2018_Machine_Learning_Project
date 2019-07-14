@@ -3,7 +3,7 @@
 Machine learning is basically, making the machine learn by using different machine learning algorithms. We mostly use graphical techniques to do the same.
 It is one of the very important step which brings up confidence in the data that can go for Machine learning.
 Below Diagram depicts exactly what the entire flow of Data Science Process and highlights the EDA step.
-![EDA Logo](/images/Data_visualization_process_v1.png)
+![EDA Logo](/images/Machine Learning.png)
 
 ___________________________________________________________________
 
