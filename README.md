@@ -1,7 +1,8 @@
 # FIFA_2018_Machine_Learning_Project
 ## __What is Machine Learning ?__
 Machine learning is basically, making the machine learn by using different machine learning algorithms.
-Below Diagram depicts basics of the Machine learning step.
+There are many different algorithms to be applied to the given data sets.
+Below Diagram depicts basic categorization of Machine learning.
 ![Machine Learning](/images/Machine-Learning.png)
 
 ___________________________________________________________________
