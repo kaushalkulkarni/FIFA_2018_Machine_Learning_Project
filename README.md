@@ -10,7 +10,7 @@ Below Diagram depicts exactly what the entire flow of Data Science Process and h
 ___________________________________________________________________
 
 ### ML Project for FIFA 2018 Data 
-![IPL Logo](/images/IPL-1.jpg)
+![FIFA 2018](/images/IPL-1.jpg)
 
 * This project showcases the Exploratory Data Analysis done for IPL matches data from 2008 till 2018.
 * The EDA showcases the analysis done for few important questions such as __*who won the most of the IPL seasons, who won most of the times Player of match award, impact of winning toss on match and wins in home cities compared to the other ones*__ via different plots.
